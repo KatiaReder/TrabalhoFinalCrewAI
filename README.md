@@ -61,7 +61,5 @@ O projeto visa:
 - **Ferramentas**: Spaceflight News API.
 - **Descrição**: Analista atento a paralelos entre ficção e realidade.
 
----
 
-## 📂 Estrutura do Projeto
 
