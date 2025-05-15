@@ -17,7 +17,7 @@ O projeto visa:
 
 ## 🧠 Tecnologias e Ferramentas
 
-- **Python 3.10+**
+- **Python 3.12.9**
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** – Coordenação de agentes LLM com tarefas especializadas.
 - **[LiteLLM](https://github.com/BerriAI/litellm)** – Abstração de LLMs como LLaMA-3 via Groq.
 
